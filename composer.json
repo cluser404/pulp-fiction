@@ -8,5 +8,7 @@
             "email": "cluser404@users.noreply.github.com"
         }
     ],
-    "require": {}
+    "require": {
+        "twig/twig": "^3.3"
+    }
 }
