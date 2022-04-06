@@ -1,0 +1,12 @@
+{
+    "name": "cluser/pulp-fiction",
+    "description": "pulp fiction is a web framework",
+    "type": "project",
+    "authors": [
+        {
+            "name": "cluser",
+            "email": "cluser404@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
