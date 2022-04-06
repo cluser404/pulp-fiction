@@ -9,6 +9,7 @@
         }
     ],
     "require": {
-        "twig/twig": "^3.3"
+        "twig/twig": "^3.3",
+        "nikic/fast-route": "^1.3"
     }
 }
